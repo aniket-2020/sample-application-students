@@ -33,4 +33,4 @@ volumes:
     driver: local
 
 networks:
-  app-network:
+  app-network:/
